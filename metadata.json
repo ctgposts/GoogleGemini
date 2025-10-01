@@ -1,0 +1,5 @@
+{
+  "name": "Umrah Ticketing System",
+  "description": "An internal ticketing system for a travel agency, featuring a general travel module and a specialized Umrah module, all presented with a luxury theme.",
+  "requestFramePermissions": []
+}
